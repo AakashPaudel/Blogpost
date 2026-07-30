@@ -1,4 +1,4 @@
-<footer class="footer sm:footer-horizontal bg-base-200 text-base-content p-10">
+h<footer class="footer sm:footer-horizontal bg-base-200 text-base-content p-10">
   <nav>
     <h6 class="footer-title">Services</h6>
     <a class="link link-hover">Branding</a>
