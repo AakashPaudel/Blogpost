@@ -23,7 +23,7 @@ return [
             'title' => 'My Third Blog Post',
             'author' => 'Alice Johnson',
             'date' => '2023-06-03',
-            'excerpt' => 'This is the excerpt of of my third blog post. It provides a brief summary of the content. It provides a brief summary of the content.',
+            'excerpt' => 'This is the excerpt of of my third blog post. It provides a brief summary of the content. It provides a brief summary of the content where i have',
             'content' => 'This is the full content of my third blog post. It goes into detail about the topic I am discussing.',
         ],
 

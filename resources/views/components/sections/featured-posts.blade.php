@@ -1,4 +1,4 @@
-<div class="flex flex-wrap justify-between bg-base-200">
+<div class="flex flex-wrap justify-around bg-base-100 ">
     @for ($i = 0; $i < 3; $i++)
         <div class="card bg-base-100 w-80 shadow-sm mt-4">
             <figure>
@@ -14,7 +14,9 @@
                 </p>
 
                 <div class="card-actions justify-center">
-                    <button class="btn btn-primary">Read More</button>
+                    <a href="/show-featured-posts" class="btn btn-primary">
+                            Read More
+                    </a>                
                 </div>
             </div>
         </div>

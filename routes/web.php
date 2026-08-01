@@ -10,6 +10,13 @@ Route::get('/blogs/create', function () {
     return view('posts.create');
 });
 
+Route::get('/write-blog', function () {
+    return view('posts.create');
+});
+
+Route::get('/show-featured-posts', function () {
+    return view('components.sections.featured-posts');
+});
 Route::get('/blogs', function () {
 
 

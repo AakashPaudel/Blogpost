@@ -8,7 +8,7 @@
     @vite(['resources/css/app.css', 'resources/js/app.js'])
 </head>
 
-<body class="bg-base-300 min-h-screen">
+<body class="bg-base-100 min-h-screen">
 
     @include('components.navbar.landing-navbar')
 
