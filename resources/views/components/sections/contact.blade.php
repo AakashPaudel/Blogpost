@@ -57,7 +57,7 @@
 
             <!-- Button -->
             <div class="text-center">
-                <button type="submit" class="btn btn-primary px-8">
+                <button type="submit" class="btn rounded-xl btn-primary px-8">
                     Send Message
                 </button>
             </div>

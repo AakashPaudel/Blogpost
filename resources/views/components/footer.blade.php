@@ -1,4 +1,4 @@
-<footer class="footer  sm:footer-horizontal bg-base-100 text-base-content p-10">
+<footer class="footer  sm:footer-horizontal bg-base-100 text-base-content p-10 mx-auto max-w-5xl px-6">
   <nav>
     <h6 class="footer-title">Services</h6>
     <a class="link link-hover">Branding</a>
@@ -20,7 +20,7 @@
     <a class="link link-hover">Cookie policy</a>
   </nav>
 </footer>
-<footer class="footer bg-base-100 text-base-content border-base-300 border-t px-10 py-4">
+<footer class="footer bg-base-100 text-base-content border-base-300 border-t px-8 py-4 max-w-6xl mx-auto ">
   <aside class="grid-flow-col items-center">
     <svg
       width="24"

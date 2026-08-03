@@ -1,4 +1,4 @@
-<nav class="bg-base-300 text-white shadow-md max-w-6xl mx-auto px-8 py-8">
+<nav class="bg-base-100 text-white shadow-md max-w-6xl mx-auto px-8 py-8">
     <div class=" flex items-center justify-between ">
         <!-- Logo -->
         <a href="/" class="text-xl font-bold tracking-wide hover:text-gray-300 transition-colors">
