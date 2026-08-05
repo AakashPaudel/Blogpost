@@ -14,6 +14,11 @@ Route::get('/write-blog', function () {
     return view('posts.create');
 });
 
+Route::get('/read-blogs', function () {
+    $posts = config('posts');
+    return view('posts.index', compact('posts'));
+});
+
 Route::get('/show-featured-posts', function () {
     return view('components.sections.featured-posts');
 });

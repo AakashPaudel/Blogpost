@@ -1,4 +1,4 @@
-<div class="flex flex-wrap featured-section justify-around bg-base-100 ">
+<div class="flex flex-wrap featured-section justify-around bg-base-100 mt-8 ">
     @for ($i = 0; $i < 3; $i++)
         <div class="card bg-base-100 w-80 shadow-sm mt-4">
             <figure>

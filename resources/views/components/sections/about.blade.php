@@ -1,4 +1,4 @@
-<section id="about" class="py-20 bg-base-200">
+<section id="about" class="py-20 bg-base-100 border-b border-white/10">
     <div class="max-w-5xl mx-auto px-6">
         <div class="flex flex-col md:flex-row items-center gap-10">
 
